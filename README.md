@@ -2,6 +2,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+> The Chinese Translation of the [rustlings](https://github.com/rust-lang/rustlings).<br>
+> Rust 小练习由一系列需要修改和调试的代码构成，本仓库将会把注释信息和一些提示信息翻译成中文。
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
